@@ -1,1 +1,1 @@
-# I will be using this repository as a log of my Cryptocurrency and Solidity development
+Deflator token has a burn function which on every transaction sends 1% of the transaction amount to the burn address. This should allow the token to capture the value of a diminishing circulating supply.
